@@ -1,0 +1,15 @@
+**** Maven ****
+
+mvn install - generates jar
+mvn archetype:generate -DgroupId=com.dmv.spring-rest-client -DartifactId=SpringRestClient -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false - New Project
+
+
+**** GUT ****
+
+git add * - Add all
+git commit -m "message" - Commit with message
+git push push - push to git hub
+
+
+
+http://spring.io/guides/gs/consuming-rest/
